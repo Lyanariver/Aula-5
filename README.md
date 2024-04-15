@@ -15,3 +15,9 @@ h:altura
 QUADRADO
 
 $A=L^{2}$
+
+sendo.
+
+A:área 
+
+L: lado 
