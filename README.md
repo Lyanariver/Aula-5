@@ -59,10 +59,12 @@ sendo,
  b:base menor
 
  h:altura 
+ 
 
 CÍRCULO 
 
 $A=\pi.r^{2}$
+
 sendo,
 
 A:área 
