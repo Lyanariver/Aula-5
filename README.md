@@ -36,7 +36,7 @@ d:diagonal menor
 
 RETÂNGULO 
 
-$A=\frac{b.h}{2}$
+$A={b.h}$
 
 sendo.
 
