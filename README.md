@@ -21,3 +21,15 @@ sendo.
 A:área 
 
 L: lado 
+
+LOSANGOLO 
+
+
+
+sendo.
+
+A:área 
+
+D:diagonal maior 
+
+d:
