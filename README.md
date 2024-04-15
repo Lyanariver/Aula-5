@@ -33,3 +33,18 @@ A:área
 D:diagonal maior 
 
 d:diagonal menor
+
+RETÂNGULO 
+
+$A=\frac{b.h}{2}$
+
+sendo.
+
+A:área 
+
+b:base 
+
+h:altura 
+
+
+
