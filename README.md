@@ -4,7 +4,7 @@ TRIÂNGULO
 
 $A=\frac{b.h}{2}$
 
-Sendo.
+Sendo,
 
 A:área 
 
@@ -16,7 +16,7 @@ QUADRADO
 
 $A=L^{2}$
 
-sendo.
+sendo,
 
 A:área 
 
@@ -26,7 +26,7 @@ LOSANGO
 
 $A=\frac{D.d}{2}$
 
-sendo.
+sendo,
 
 A:área 
 
@@ -38,7 +38,7 @@ RETÂNGULO
 
 $A={b.h}$
 
-sendo.
+sendo,
 
 A:área 
 
@@ -50,7 +50,7 @@ TRAPÉZIO
 
 $A=\frac{(B+b)=h}{2}$
 
-sendo.
+sendo,
 
  A:área 
  
@@ -60,5 +60,14 @@ sendo.
 
  h:altura 
 
+CÍRCULO 
 
+$A=\pi.r^{2}$
+sendo,
+
+A:área 
+
+$\pi$:constante Pi (3 14)
+
+r:raio 
 
