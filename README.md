@@ -22,9 +22,10 @@ A:área
 
 L: lado 
 
-LOSANGOLO 
+LOSANGO
 
-
+$A=\
+frac{D.d}{2}$
 
 sendo.
 
@@ -32,4 +33,4 @@ A:área
 
 D:diagonal maior 
 
-d:
+d:diagonal menor
